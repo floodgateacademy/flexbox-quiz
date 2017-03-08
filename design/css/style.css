@@ -24,14 +24,14 @@ main {
 }
 
 li {
-  margin: 25px;
+  margin: 20px;
   background-color: green;
-  height: 150px;
-  width: 150px;
+  height: 160px;
+  width: 160px;
   align-self: auto;
 }
 
-.top {
+/*.top {
   margin: 0 5px 45px 0;
 }
 
@@ -43,4 +43,4 @@ li {
 
 .bot {
   margin: 30px 5px 0 0;
-}
+}*/
