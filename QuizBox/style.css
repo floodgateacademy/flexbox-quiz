@@ -1,3 +1,21 @@
-*{
- border: solid 1px black;
+
+.container{
+  position:absolute;
+  top: 20px;
+  left: 0px;
+  display:block ;
+  width: 900px;
+  height:900px;
+  background-color: purple;
+}
+
+.blackBox{
+  display:flex;
+  flex-direction: column;
+  justify-content:flex-end;
+  width: 600px;
+  height:600px;
+  border: white;
+  border-style: dashed ;
+  background-color: black;
 }
