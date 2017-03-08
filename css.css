@@ -1,0 +1,36 @@
+.mainbox {
+ width: 900px;
+ height: 900px;
+ background-color: purple; 
+ display: flex;
+}
+
+.blackbox {
+ width: 600px;
+ height: 300px;
+ border: white dashed 5px;
+ background-color: black; 
+ flex-direction: colunm;
+ flex-wrap: wrap;
+}
+
+.greenboxs1 {
+ width: 150px;
+ height: 150px;
+ background-color: green; 
+ flex-wrap: wrap;
+}
+
+.greenboxs2 {
+ width: 150px;
+ height: 150px;
+ background-color: green; 
+ flex-wrap: wrap;
+}
+
+.greenboxs3{
+ width: 150px;
+ height: 150px;
+ background-color: green; 
+ flex-wrap: wrap;
+}
