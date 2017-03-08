@@ -71,11 +71,11 @@ table {
 
 }
 
-.small-boxes {
+/*.small-boxes {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-}
+}*/
 
 .one-of-nine {
   display: flex;
@@ -87,19 +87,16 @@ table {
 
 .one {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
 }
 
 .two {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
 }
 
 .three {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
   
 }
